@@ -9,7 +9,7 @@ Ultimately our goal is to use the words in this file to generate easily memorabl
 
 1. If you haven't already, clone this repository to your working directory: `git clone https://github.com/denriconbhs/stem`
 2. Navigate to the directory containing this repository and open the Python command line interpreter: `python`
-3. Open and read out the contents of the file using either `.read()`, `.readlines()`, or by iterating over the file object
+3. Open and read out the contents of the file using either `.read()`, `.readlines()`, or by iterating over the file object using a `for` loop.
 4. Find a way to open and print out only the first column of the file.
 5. Write this new list to a file called `only_words.txt`
 6. Open `only_words.txt` and print out the first 2,000 words
