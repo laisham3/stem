@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Create an object called number that stores the value 7
-number = 7
+
 
 # Create an object called my_list that stores the list of numbers from 1 to 10 inclusive.
 
